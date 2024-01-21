@@ -1,4 +1,4 @@
-# Github Profile
+# Github Profile Query
 <p align="center">
   <img 
     src="demo.png"
